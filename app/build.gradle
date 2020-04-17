@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "com.example.ottot.carbontracker"
+        minSdkVersion 25
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+ext {
+    supportLibVersion = '28.0.3'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('androidx.test.espresso:espresso-core:3.1.0', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'it.sephiroth.android.library.bottomnavigation:bottom-navigation:2.0.1-rc1'
+    testImplementation 'junit:junit:4.12'
+
+    implementation 'com.antonionicolaspina:revealtextview:2.0'
+}
+
+dependencies {
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.1'
+    implementation 'com.gordonwong:material-sheet-fab:1.2.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+}
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}
+dependencies {
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+}
+
+
+
+
+
