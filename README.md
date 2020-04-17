@@ -1,4 +1,4 @@
-# Project Carbon Tracker(CarbonOmitter)
+# CarbonOmitter
 
 ## Overview
 CarbonOmitter is an Android app that tracks user's daily CO2 emissions(transportations and utility bills). Users can see their daily, monthly or yearly emissions from the main page.
