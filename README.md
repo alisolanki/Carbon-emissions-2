@@ -68,6 +68,14 @@ The app supports multiple languages: English, French and Spanish(machine transla
 
 Mohd. Ali Solanki
 
+Zhixuan(Otto) Hu
+
+XiaoLu(Levana) He
+
+Alison Wong
+
+Ming-Nu Lee
+
 ## Usage
  (At the moment) open with Android Studio
 
