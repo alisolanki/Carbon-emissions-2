@@ -1,5 +1,5 @@
-<resources>
-    <string name="app_name">GoGreen</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CarbonOmitter</string>
     <string name="new_journey">new journey</string>
     <string name="delete_journey">delete journey</string>
     <string name="get_start">get start</string>
@@ -136,7 +136,7 @@
     <string name="team_name">Team Ten Pointers</string>
     <string name="year_created">2020</string>
     <string name="developer_label">Developed by:</string>
-    <string name="developers">Hussein Motiwala\nSmeet Nagda\nSashank MVV\nSaket Medhekar</string>
+    <string name="developers" tools:ignore="MissingTranslation">Hussein Motiwala\nSmeet Nagda\nSashank MVV\nSaket Medhekar</string>
     <string name="resource_label">Resources used:</string>
     <string name="restart_app">Please restart the app to see change</string>
     <string name="notification_title_no_journey">You entered no journeys for today</string>
@@ -165,7 +165,7 @@
     <string name="Electricity">Electricity</string>
     <string name="chart_label_other">Other</string>
     <string name="bike">Bike</string>
-    <string name="green">GREEN</string>
+    <string name="green">Carbon\nOmitter</string>
     <string name="welcome_icon">welcome_icon</string>
     <string name="invalidNumPeople">Please enter a valid number of people in your home</string>
     <string name="invalidBillAmount">Please enter a valid bill amount</string>

@@ -6,19 +6,19 @@ CarbonOmitter is an Android app that tracks user's daily CO2 emissions(transport
 ## Introduction
 
 ### Welcome screen
-![welcome screen](/docs/1.PNG)
+![welcome screen](/docs/1.jpeg)
 
 The app features a refreshed and user friendly UI with an original logo.
 
 
 ### Home Page
-![home page](/docs/2.PNG)
+![home page](/docs/2.jpeg)
 
 The home page displays a summary of all CO2 emissions calculated from user's journeys and utility bills.
 
 
 ### Journey Page
-![journey page](/docs/3.PNG)
+![journey page](/docs/3.jpeg)
 
 The journey page allows user to add a journey containing transportation mode(bike/walk, bus, skytrain or car), car specifications, route and date.
 
@@ -26,7 +26,7 @@ User can press a journey to edit its information.
 
 
 ### Add vehicle page
-![add vehicle page](/docs/4.PNG)
+![add vehicle page](/docs/4.jpeg)
 
 If the selected transportation mode is car, user can add a new car or select an existing car from a menu of all saved cars.
 
@@ -36,30 +36,30 @@ Vehicle data is from US EPA: http://www.fueleconomy.gov/feg/download.shtml
 
 
 ### Add route page
-![add route page](/docs/5.PNG)
+![add route page](/docs/5.jpeg)
 
 After selecting car or other transportation mode, user enters a route menu which records the route information. This information can be an existing route or a new one(user can choose to not save the route).
 
 
 ### Journey recorded page
-![journey recorded](/docs/6.PNG)
+![journey recorded](/docs/6.jpeg)
 
 When a journey is recorded, a tip is given to help users to reduce CO2 emissions.
 
 
 ### Add utility bill page
-![add utility bill page](/docs/7.PNG)
+![add utility bill page](/docs/7.jpeg)
 
 The utility bill page allows user to add monthly utility bills in either electricity or natural gas.
 
 ### Graph page
-![more graph options](/docs/8.PNG)
+![more graph options](/docs/8.jpeg)
 
 From home page, user can open a graph page to see more specific graphs. It shows all emissions in a specific day, the past month, or the past year. Emissions can be grouped by transportation modes or route.
 
 
 ### Unit setting page
-![unit setting option](/docs/9.PNG)
+![unit setting option](/docs/9.jpeg)
 
 Two emission units are available. 
 The app supports multiple languages: English, French and Spanish(machine translated).
@@ -140,7 +140,7 @@ Bill icon:
 http://richardsonpestsolutions.com/index.php?id=38198
 
 Edit button background:
-http://www.freeiconspng.com/free-images/edit-icon-png-3603
+http://www.freeiconsjpeg.com/free-images/edit-icon-jpeg-3603
 
 Bill background:
 https://emmacharlottebeauty.wordpress.com/2015/08/04/100-things-that-make-me-happy-part-2/
