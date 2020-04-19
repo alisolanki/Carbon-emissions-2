@@ -2,6 +2,7 @@ package com.example.ottot.carbontracker.model;
 
 /**
  * Created by HE on 2017-03-15.
+ * Edited by Ali Solanki on 18-04-2020
  *
  * an object class to hold utility data and calculate carbon emission for utility.
  */
@@ -52,8 +53,7 @@ public class Utility {
     private void determineUnit() {
         if(billType.equals("Electricity")){
             emissionUnit = 0.009;
-        }
-        else{
+        }else{
             emissionUnit = 56.1;
         }
     }

@@ -13,7 +13,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 /**
- * Created by ottot on 3/16/2017.
+ * Created by otto on 3/16/2017.
  *
  * vehicle data helper.
  */
