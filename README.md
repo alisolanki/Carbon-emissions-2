@@ -64,8 +64,10 @@ From home page, user can open a graph page to see more specific graphs. It shows
 Two emission units are available. 
 The app supports multiple languages: English, French and Spanish(machine translated).
 
-#### Developers
+#### About
+![unit setting option](/docs/10.jpeg)
 
+#### Developers
 Mohd. Ali Solanki
 
 Zhixuan(Otto) Hu
